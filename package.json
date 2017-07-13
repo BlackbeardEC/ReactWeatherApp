@@ -9,6 +9,9 @@
   },
   "author": "BlackBeard",
   "license": "MIT",
+  "engines": {
+    "node": "8.1.4"
+  },
   "dependencies": {
     "axios": "^0.16.2",
     "express": "^4.13.4",
